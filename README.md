@@ -1,10 +1,8 @@
-﻿# bar kitchen
+# Generali's Bar & Kitchen
 
-Generali's Bar & Kitchen | Kilifi's Finest
+<img src="./assets/header.svg" width="100%" alt="Generali's Bar & Kitchen" />
 
-## Stack
-
-react Â· vite Â· typescript Â· supabase
+Coastal flavours and nights out in Kilifi.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· supabase
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
