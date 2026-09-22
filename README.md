@@ -1,8 +1,12 @@
 # Generali's Bar & Kitchen
 
-<img src="./assets/header.svg" width="100%" alt="Generali's Bar & Kitchen" />
+Bar and restaurant site for Kilifi.
 
-Coastal flavours and nights out in Kilifi.
+**Status:** brand site
+
+## Stack
+
+React, TypeScript, Vite, Supabase
 
 ## Run locally
 
